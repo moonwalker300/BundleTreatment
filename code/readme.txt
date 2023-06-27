@@ -1,0 +1,1 @@
+python run.py --config configs/synthetic_configs.txt
